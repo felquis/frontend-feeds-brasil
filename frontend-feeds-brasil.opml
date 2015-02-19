@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Front-end Feeds Brasil</title>
+    </head>
+    <body>
+        <outline text="Front-end Brasil" title="Front-end Brasil">
+            <outline type="rss" text="Vitor Britto" title="Vitor Britto" xmlUrl="http://feeds.feedburner.com/vitorbritto?format=xml" htmlUrl="http://www.vitorbritto.com.br/blog"/>
+            <outline type="rss" text="O Desenvolvedor" title="O Desenvolvedor" xmlUrl="http://feeds.feedburner.com/ODesenvolvedor" htmlUrl="http://odesenvolvedor.andafter.org/"/>
+            <outline type="rss" text="Tableless" title="Tableless" xmlUrl="http://www.tableless.com.br/feed/" htmlUrl="http://tableless.com.br"/>
+            <outline type="rss" text="Jean Carlo Emer" title="Jean Carlo Emer" xmlUrl="http://feeds.feedburner.com/jeancarloemer?format=xml" htmlUrl="http://jcemer.com"/>
+            <outline type="rss" text="Loop Infinito" title="Loop Infinito" xmlUrl="http://feeds.feedburner.com/l8p" htmlUrl="http://loopinfinito.com.br/"/>
+            <outline type="rss" text="Simples Ideias" title="Simples Ideias" xmlUrl="http://simplesideias.com.br/feed/" htmlUrl="http://simplesideias.com.br"/>
+            <outline type="rss" text="William Oliveira" title="William Oliveira" xmlUrl="http://gnuwilliam.github.io/atom.xml" htmlUrl="http://gnuwilliam.github.io/"/>
+            <outline type="rss" text="blog.caelum.com.br" title="blog.caelum.com.br" xmlUrl="http://blog.caelum.com.br/feed/" htmlUrl="http://blog.caelum.com.br"/>
+            <outline type="rss" text="Pinceladas da Web - XHTML, CSS, JavaScript e WebStandards" title="Pinceladas da Web - XHTML, CSS, JavaScript e WebStandards" xmlUrl="http://feeds.feedburner.com/pinceladasdaweb" htmlUrl="http://www.pinceladasdaweb.com.br/blog"/>
+            <outline type="rss" text="TutsMais" title="TutsMais" xmlUrl="http://tutsmais.com.br/blog/feed/" htmlUrl="http://tutsmais.com.br/blog"/>
+            <outline type="rss" text="Willian Justen" title="Willian Justen" xmlUrl="http://willianjusten.com.br/feed.xml" htmlUrl="http://willianjusten.com.br/"/>
+            <outline type="rss" text="AkitaOnRails.com" title="AkitaOnRails.com" xmlUrl="http://feeds.feedburner.com/AkitaOnRails" htmlUrl="http://www.akitaonrails.com"/>
+            <outline type="rss" text="W3C Brasil" title="W3C Brasil" xmlUrl="http://blog.w3c.br/feed/" htmlUrl="http://blog.w3c.br/"/>
+            <outline type="rss" text="Blog do Maujor" title="Blog do Maujor" xmlUrl="http://feeds.feedburner.com/maujorblog" htmlUrl="http://www.maujor.com/blog/"/>
+            <outline type="rss" text="Pinceladas na Web" title="Pinceladas na Web" xmlUrl="http://feeds.feedburner.com/PinceladasDaWeb" htmlUrl="http://www.pinceladasdaweb.com.br/blog/"/>
+            <outline type="rss" text="Front-end Brasil" title="Front-end Brasil" xmlUrl="http://www.frontendbrasil.com.br/feed/" htmlUrl="http://www.frontendbrasil.com.br/"/>
+        </outline>
+    </body>
+</opml>
