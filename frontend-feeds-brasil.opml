@@ -22,6 +22,7 @@
             <outline type="rss" text="Blog do Maujor" title="Blog do Maujor" xmlUrl="http://feeds.feedburner.com/maujorblog" htmlUrl="http://www.maujor.com/blog/"/>
             <outline type="rss" text="Pinceladas na Web" title="Pinceladas na Web" xmlUrl="http://feeds.feedburner.com/PinceladasDaWeb" htmlUrl="http://www.pinceladasdaweb.com.br/blog/"/>
             <outline type="rss" text="Front-end Brasil" title="Front-end Brasil" xmlUrl="http://www.frontendbrasil.com.br/feed/" htmlUrl="http://www.frontendbrasil.com.br/"/>
+            <outline type="rss" text="Raio frontendizador" title="Raio frontendizador" xmlUrl="http://jotateles.com.br/feed.xml" htmlUrl="http://jotateles.com.br/"/>
         </outline>
     </body>
 </opml>
